@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TresEnRaya</string>
+    <string name="btnReset">Reset</string>
+    <string name="TurnoX">Turno de X</string>
+    <string name="TurnoO">Turno de O</string>
+    <string name="WinnerO">Ganador O</string>
+    <string name="WinnerX">Ganador X</string>
+    <string name="draw">Empate</string>
+    <string name="O">O</string>
+    <string name="X">X</string>
+</resources>

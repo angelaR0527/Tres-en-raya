@@ -4,14 +4,13 @@
 Una aplicación desarrollada en Android Studio como parte de la asignatura móviles del curso Desarrollo de Aplicaciones Multiplataforma, representa el juego del tres en raya multijugador.
 
 ## 🛠️ Tecnologías usadas
-
 - Android Studio
 - Kotlin 
 
 ## ⚙️ Instalación
 ### 🔧 Requerimientos
-Dispositivo Android
-Versión Android 7.0 hasta 14 de junio 2025
+Dispositivo Android<br/>
+Versión Android 7.0 hasta 14 de junio 2025<br/>
 Puedes instalar el apk que corresponde al archivo app-release.apk, una vez instalado en el dispositivo Android se inicia la aplicación correctamente.
 
 ```bash
